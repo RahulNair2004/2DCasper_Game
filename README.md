@@ -1,11 +1,11 @@
 # 2DCasper_Game
 2D Platform Game
 
-OVERVIEW
+## OVERVIEW
 
 Welcome to my 2D platform game! This game is a classic platformer where players navigate through levels filled with obstacles, enemies, and collectibles. The objective is to reach the end of each level while avoiding dangers and collecting items to achieve the highest score.
 
-FEATURES
+## FEATURES
 
 Engaging Gameplay: Jump, run, and slide through various challenging levels.
 
@@ -18,14 +18,14 @@ Multiple Levels: A series of increasingly difficult levels to keep players engag
 Collectibles: Coins and power-ups scattered throughout the levels.
 Sound Effects: Immersive sound effects that enhance the gaming experience.
 
-CONTROLS
+## CONTROLS
 
 Move Left: Left Arrow or A
 Move Right: Right Arrow or D
 Jump: Spacebar or W
 Slide: Down Arrow or S
 
-SCREENSHOTS
+## SCREENSHOTS
 
 ![Screenshot (3)](https://github.com/RahulNair2004/2DCasper_Game/assets/174892063/16107fcd-ccf9-459e-85eb-b6156a08bed0)
 
@@ -39,6 +39,6 @@ SCREENSHOTS
 
 ![Screenshot (6)](https://github.com/RahulNair2004/2DCasper_Game/assets/174892063/8d010eb4-d10c-43c3-8a4a-2484e81341c4)
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
